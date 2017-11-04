@@ -1,13 +1,12 @@
-# Babel
+# Webpack
 
 ## Directions
 
 ### 1. Run these commands
 ```
-npm install --save babel-core
-npm install --save babel-preset-env
-npm install --save babel-preset-react
+npm install --save webpack babel-loader
 ```
 
 ### 2. Add these files
-* .babelrc
+* src/main.js
+* webpack.config.js
