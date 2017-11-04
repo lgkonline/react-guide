@@ -1,2 +1,7 @@
-# react-guide
-A Skill Guide to create an empty React project.
+# npm
+
+## Directions
+
+### 1. Run these commands
+```
+npm init -y
