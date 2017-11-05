@@ -4,9 +4,15 @@
   "description": "My new React project",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack -p",
+    "start": "webpack -d --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
 }
