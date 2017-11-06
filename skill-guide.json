@@ -1,0 +1,5 @@
+{
+    "title": "Create a new React project",
+    "description": "In this guide you'll make a simple React project. Step by step. We'll prepare NPM, install Babel, Webpack and React.",
+    "liveView": "www/index.html"
+}
