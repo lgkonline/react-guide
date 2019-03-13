@@ -4,7 +4,7 @@
 
 ### 1. Run these commands
 ```
-npm install --save webpack babel-loader
+npm install --save webpack babel-loader@7
 ```
 
 ### 2. Add these files
